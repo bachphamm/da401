@@ -9,6 +9,8 @@
 ## Code
 - early_results.ipynb: Contains preliminary findings and method testings
 - first_draft.ipynb: Contains updated findings and methods; EDA and Analysis
+- final_draft.ipynb: Contains refined methodology and visualizations
+- final_draft_update.ipynb: Contains revised codes and organization
 
 ## Usage
 - Download the .ipynb files and they are ready to run
