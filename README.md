@@ -5,6 +5,7 @@
 - average.parq: Contains seasonal average statistics of NBA players (1994-2022)
 - advanced.parq: Contains seasonal average advanced statistics of NBA players (1994-2022)
 - 2023-2024.xlsx: Contains average statistics of NBA players (season 2023-2024)
+- 2023_adv.csv: Contains average advanced statistics of NBA players (season 2023-2024) 
 
 ## Code
 - early_results.ipynb: Contains preliminary findings and method testings
